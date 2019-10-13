@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
 
   def contacts    
   end
+
+  def map    
+  end
 end
